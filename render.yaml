@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: send-savab
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "./start.sh"
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
