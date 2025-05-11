@@ -21,15 +21,15 @@
 1. این ریپو رو کلون کن یا فایل‌هاشو دانلود کن.
 2. با استفاده از فایل `.env.example` یه فایل `.env` بساز و توکن رباتت رو بذار توش.
 3. کتابخونه‌های موردنیاز رو نصب کن:
-   bash
+   ```bash
    pip install -r requirements.txt
-
+```
 
 4. برنامه رو اجرا کن:
 
-   bash
+   ```bash
    python bot.py
-   
+   ```
 
 ---
 
@@ -45,15 +45,15 @@
 
 4. Build command رو بذار:
 
-   bash
+   ```bash
    pip install -r requirements.txt
-   
+   ```
 
 5. Start command:
 
-   bash
+   ```bash
    bash start.sh
-   
+   ```
 
 6. Environment Variable رو اضافه کن:
 
@@ -112,7 +112,7 @@ Render تو پلن رایگان، بعد از چند دقیقه عدم استف�
 موفق باشی و ان‌شاءالله ثواب بگیری 💚
 اگه سوالی داشتی، توی تلگرام پیام بده یا Issue باز کن.
 
-
+```
 
 ---
 
@@ -142,14 +142,14 @@ This Telegram bot helps you receive **Quranic verses** randomly or based on your
 
 ## 🧩 Local Installation:
 
-bash
+```bash
 git clone https://github.com/your-username/send-savab.git
 cd send-savab
 pip install -r requirements.txt
 cp .env.example .env
 # Add your BOT_TOKEN to .env
 python bot.py
-
+```
 
 ---
 
@@ -162,9 +162,9 @@ python bot.py
 3. Connect your GitHub repo
 4. Start command:
 
-   bash
+   ```bash
    bash start.sh
-   
+   ```
 5. Add an environment variable `BOT_TOKEN` with your bot's token.
 6. After deployment, get your public URL (e.g. `https://send-savab.onrender.com`)
 
