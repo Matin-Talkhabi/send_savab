@@ -1,8 +1,6 @@
 مطمئناً! در ادامه نسخه‌ای زیباتر، مرتب‌تر و حرفه‌ای‌تر از فایل `README.md` رو می‌بینی که همچنان خودمونی و قابل درک برای همه‌ست، با نمایش مناسب در GitHub:
 
----
 
-```markdown
 # 🕌 ربات تلگرام ارسال آیات قرآن
 
 سلام! 🙌  
@@ -33,17 +31,17 @@
 1. این مخزن رو کلون یا دانلود کنید.
 2. کتابخانه‌های موردنیاز رو با `pip install -r requirements.txt` نصب کنید.
 3. یک فایل `.env` بسازید و توکن ربات تلگرام‌تون رو داخلش بذارید:
-```
+
 
 BOT\_TOKEN=your\_telegram\_bot\_token
 
-```
+
 4. فایل `bot.py` رو اجرا کنید:
-```
+
 
 python bot.py
 
-```
+
 
 ## 👨‍💻 توسعه‌دهنده:
 - [@KMmatin_00](https://t.me/KMmatin_00) – برنامه‌نویس ربات و طراح اصلی
@@ -79,23 +77,23 @@ This Telegram bot helps you receive **Quranic verses** randomly or based on your
 ## 🧩 Installation:
 1. Clone or download this repository.
 2. Install the dependencies:
-```
+
 
 pip install -r requirements.txt
 
-```
+
 3. Create a `.env` file and add your Telegram bot token:
-```
+
 
 BOT\_TOKEN=your\_telegram\_bot\_token
 
-```
+
 4. Run the bot:
-```
+
 
 python bot.py
 
-```
+
 
 ## 👨‍💻 Developer:
 - [@KMmatin_00](https://t.me/KMmatin_00) – Bot developer and main designer
@@ -103,7 +101,7 @@ python bot.py
 ---
 
 🕊️ **Enjoy using the bot and may it be a source of reward!**
-```
+
 
 ---
 
